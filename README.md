@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
 <br />
 <div align="center">
@@ -35,7 +35,7 @@
 
 ## My Skill Set
 
-### Frontend
+### 💅 Frontend
 
 <div>  
 <span>
@@ -57,8 +57,9 @@
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 </span>
 </div>
+<br/>
 
-### Backend
+### 🤖 Backend
 
 <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -68,7 +69,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 </div>
 
-### Otros
+<br />
+
+### 🧰 Otros
 
 <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
