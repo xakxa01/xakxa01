@@ -33,7 +33,7 @@
 
 <br/>
 
-## My Skill Set
+## 🧙‍♂️ My Skill Set
 
 ### 💅 Frontend
 
