@@ -24,7 +24,7 @@
 <br/>
 
 
-- 🔭 estoy trabajando en [Helpmyteam](https://helpmyteam.com/)
+- 🔭 i'm working in [Helpmyteam](https://helpmyteam.com/)
 
 <br/>
 
