@@ -23,9 +23,6 @@
 
 <br/>
 
-
-- 🔭 i'm working in [Helpmyteam](https://helpmyteam.com/)
-
 <br/>
 
 ## 🧙‍♂️ My Skill Set
